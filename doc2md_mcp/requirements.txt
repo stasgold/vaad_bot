@@ -1,0 +1,14 @@
+mcp
+markdown[all]
+markdownify
+pdfplumber
+python-docx
+python-pptx
+pandas
+openpyxl
+xlrd
+beautifulsoup4
+lxml
+pillow
+pytesseract
+charset-normalizer
