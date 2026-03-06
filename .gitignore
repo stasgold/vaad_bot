@@ -14,7 +14,6 @@ build/
 *.egg
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo

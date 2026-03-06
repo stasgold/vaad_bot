@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "doc2md": {
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": [
+        "${workspaceFolder}/doc2md_mcp/server.py"
+      ]
+    }
+  }
+}
